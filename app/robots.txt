@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://your-domain.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow common problematic paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
