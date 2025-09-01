@@ -18,8 +18,8 @@ export const siteConfig = {
   author: "EcoKabadi Team",
   businessPhone: "+91 9821816308",
   whatsappNumber: "919821816308",
-  address: "123 Green Street, Eco City, State 110001, India",
-  email: "contact@ecokabadi.com"
+  address: "mogal lane matunga west mumbai 400016",
+  email: "ashokkumarjain@gmailcom"
 };
 
 export const jsonLdSchema = {
